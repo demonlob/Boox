@@ -21,4 +21,4 @@ spotipy
 tgcrypto
 youtube-search
 youtube-search-python
-yt-dlp==2023.11.16
+git+https://github.com/yt-dlp/yt-dlp
